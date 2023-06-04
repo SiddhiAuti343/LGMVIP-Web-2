@@ -1,0 +1,35 @@
+.App1{
+  align-items: center;
+  padding: 2px;
+  float:center;
+  justify-content: center;
+}
+
+#text{
+  padding:2rem;
+  margin: 4px;
+  text-decoration: solid;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: rgba(184, 197, 197, 0.226);
+  float:center;
+  margin-left: 25rem;
+  margin-right:30rem;
+  border-style:solid;
+
+}
+
+.btn{
+      justify-content: center;
+      align-items:center;
+      cursor: pointer;
+      font-size: larger;
+      margin-left:40rem;
+      margin-top:6rem;
+      border-spacing:2cm;
+}
+
+.btn:hover{
+  background-color: black;
+  color:white;
+}
+
